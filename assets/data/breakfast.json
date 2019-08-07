@@ -1,0 +1,8 @@
+{
+    "breakfast": 
+      [
+          {"name": "Egg McMuffin","price": "$4.29","calories": "290"},
+          {"name": "Plain Bagel with Butter","price": "$1.99","calories": "320"},
+          {"name": "Hotcakes with Syrup and Butter","price": "$3.79","calories": "600"}
+    ]
+  }

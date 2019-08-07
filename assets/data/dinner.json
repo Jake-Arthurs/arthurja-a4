@@ -1,0 +1,8 @@
+{
+    "dinner": 
+      [
+          {"name": "Mighty Angus","price": "$7.49","calories": "790"},
+          {"name": "Big Mac","price": "$5.99","calories": "540"},
+          {"name": "20 Chicken McNuggets","price": "$13.59","calories": "830"}
+    ]
+  }

@@ -1,0 +1,8 @@
+{
+    "lunch": 
+      [
+          {"name": "Double Cheesburger","price": "$2.79","calories": "420"},
+          {"name": "McDouble","price": "$1.99","calories": "370"},
+          {"name": "6 Chicken McNuggets","price": "$5.99","calories": "250-310"}
+    ]
+  }
